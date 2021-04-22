@@ -1,0 +1,22 @@
+.modalDiv{
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.inputDivBox{
+    display: flex;
+
+    position: relative;
+    justify-content: flex-start;
+}
+
+.close{
+    background-color: rgb(243, 231, 231);
+    color: gray;
+}
+.close:hover{
+    background-color: rgb(219, 211, 211);
+    
+}

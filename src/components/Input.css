@@ -1,0 +1,7 @@
+.inputNumber{
+    width:100%;
+    font-size: clamp(10px,2vw,40px);
+height: clamp(10px,5vh,20vh);
+color: rgb(27, 27, 27);
+font-weight: 600;
+}

@@ -1,0 +1,16 @@
+.DetailDiv{
+    background: #f3f3f3;
+    
+    font-size: clamp(5pt,2vw,40px);
+  
+    display: flex;
+     
+     justify-content: space-between;
+     
+     padding:'10px 2px';
+     border-bottom:'1px solid black';
+}
+.DetailDiv:hover{
+  background: rgb(226, 226, 226);
+    cursor: pointer;
+}

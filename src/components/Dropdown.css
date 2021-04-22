@@ -1,0 +1,17 @@
+.dropDownHead{
+    font-size: clamp(10px,2vw,40px);
+    background-color: aliceblue;
+
+
+    width: 50%;
+    height: auto;
+    position: relative;
+    text-align: center;
+    
+}
+.dropDownHead:hover{
+    background-color: rgb(208, 216, 223);
+    cursor: pointer;
+}
+
+
